@@ -1,0 +1,7 @@
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\bin\Debug\Prog1-Imaad.exe.config
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\bin\Debug\Prog1-Imaad.exe
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\bin\Debug\Prog1-Imaad.pdb
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\obj\Debug\Prog1-Imaad.csproj.AssemblyReference.cache
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\obj\Debug\Prog1-Imaad.csproj.CoreCompileInputs.cache
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\obj\Debug\Prog1-Imaad.exe
+C:\Users\idris\source\repos\Prog1-Imaad\Prog1-Imaad\obj\Debug\Prog1-Imaad.pdb
